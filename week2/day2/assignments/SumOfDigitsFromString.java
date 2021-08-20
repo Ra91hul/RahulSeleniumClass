@@ -1,9 +1,5 @@
 package week2.day2.assignments;
 
-import org.openqa.selenium.chrome.ChromeDriver;
-
-import io.github.bonigarcia.wdm.WebDriverManager;
-
 public class SumOfDigitsFromString {
 
 	public static void main(String[] args) {
