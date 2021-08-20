@@ -68,7 +68,7 @@ public class DuplicateLead {
 		if(duplLeadName.equals(frstLeadTxt)) {
 			System.out.println(duplLeadName + " && " + frstLeadTxt + " are equals to eachother");
 		}
-		
+		driver.close();
 
 	}
 
